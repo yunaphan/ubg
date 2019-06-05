@@ -1,0 +1,6 @@
+django==2.1
+djangorestframework
+markdown
+django-filter
+django-pyodbc-azure
+django-cors-headers
