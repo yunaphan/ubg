@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "bcrypt": "^3.0.6",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "node-pre-gyp": "^0.13.0"
   },
   "devDependencies": {},
